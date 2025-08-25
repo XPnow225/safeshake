@@ -1,0 +1,18 @@
+
+<resources>
+  <string name="app_name">SafeShake</string>
+  <string name="start_shake">Secouer (3 s)</string>
+  <string name="status_idle">Prêt</string>
+  <string name="status_collecting">Enregistrement capteurs…</string>
+  <string name="status_processing">Traitement…</string>
+  <string name="status_done">Clé dérivée. Compare le code sur les deux téléphones.</string>
+  <string name="sas_label">Code (SAS) :</string>
+  <string name="retry">Recommencer</string>
+  <string name="entropy_low">Geste trop faible. Secoue plus fort et recommence.</string>
+  <string name="connect">Découvrir &amp; se connecter</string>
+  <string name="disconnect">Se déconnecter</string>
+  <string name="send">Envoyer</string>
+  <string name="pick_file">Choisir un fichier</string>
+  <string name="status_ready_to_connect">Clé ok. Découvre un pair et connecte-toi en Wi‑Fi Direct.</string>
+  <string name="peers_found">Appareils trouvés</string>
+</resources>
